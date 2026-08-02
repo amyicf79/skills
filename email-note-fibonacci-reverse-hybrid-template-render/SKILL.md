@@ -1,6 +1,6 @@
 ---
 name: email-note-fibonacci-reverse-hybrid-template-render
-description: 自动执行fib rev x template render 3813算法任务，适用于邮件笔记数据处理场景（效率工具、数据处理、办公）。由 IXNO 进化引擎自动产出，fitness 评分 0.0，原创可商用。Use when user needs fib rev x template render 3813 computations.
+description: 计算斐波那契数列、数字反转、模板渲染、内容渲染相关任务，适用于邮件笔记数据处理场景。当用户需要处理斐波那契数列、数字反转、模板渲染、内容渲染、算法面试准备、数值计算挑战，或提到相关关键词时使用。由 IXNO 进化引擎自动产出，fitness 评分 0，原创可商用。
 tags: [, email note fibonacci reverse hybrid template render]
 platforms: [claude-code, cursor, codex, opencode, gemini-cli, github-copilot, kiro, windsurf]
 license: Proprietary

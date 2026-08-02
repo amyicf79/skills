@@ -1,6 +1,6 @@
 ---
 name: email-note-palindrome-gcd-hybrid-fibonacci-reverse
-description: 自动执行pal gcd x fib rev 1868算法任务，适用于邮件笔记数据处理场景（效率工具、数据处理、办公）。由 IXNO 进化引擎自动产出，fitness 评分 0.0，原创可商用。Use when user needs pal gcd x fib rev 1868 computations.
+description: 计算回文判断、最大公约数、斐波那契数列、数字反转相关任务，适用于邮件笔记数据处理场景。当用户需要处理回文判断、最大公约数、斐波那契数列、数字反转、算法面试准备、数值计算挑战，或提到相关关键词时使用。由 IXNO 进化引擎自动产出，fitness 评分 0，原创可商用。
 tags: [, email note palindrome gcd hybrid fibonacci reverse]
 platforms: [claude-code, cursor, codex, opencode, gemini-cli, github-copilot, kiro, windsurf]
 license: Proprietary

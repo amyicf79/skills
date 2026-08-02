@@ -1,6 +1,6 @@
 ---
 name: smart-home-gene-lcm-hybrid-lcm-sum
-description: 自动执行gene lcm x lcm sum 3605算法任务，适用于智能家居场景场景（智能家居、IoT）。由 IXNO 进化引擎自动产出，fitness 评分 4055.7，原创可商用。Use when user needs gene lcm x lcm sum 3605 computations.
+description: 计算最小公倍数、求和相关任务，适用于智能家居控制场景。当用户需要处理最小公倍数、求和、算法面试准备、数值计算挑战，或提到相关关键词时使用。由 IXNO 进化引擎自动产出，fitness 评分 0，原创可商用。
 tags: [, smart home gene lcm hybrid lcm sum]
 platforms: [claude-code, cursor, codex, opencode, gemini-cli, github-copilot, kiro, windsurf]
 license: Proprietary
@@ -9,7 +9,7 @@ metadata:
   author: ixno-evolver
   source: ixno-genes
   domain: smart-home
-  fitness: "4055.74"
+  fitness: "0.00"
   fitness_raw: "0"
   tags: "智能家居, IoT"
   original_id: "gene_lcm_x_lcm_sum_3605"

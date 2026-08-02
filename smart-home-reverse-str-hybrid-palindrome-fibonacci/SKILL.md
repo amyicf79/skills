@@ -1,6 +1,6 @@
 ---
 name: smart-home-reverse-str-hybrid-palindrome-fibonacci
-description: 自动执行rev str x pal fib 4660算法任务，适用于智能家居场景场景（智能家居、IoT）。由 IXNO 进化引擎自动产出，fitness 评分 0.0，原创可商用。Use when user needs rev str x pal fib 4660 computations.
+description: 计算数字反转、字符串、回文判断、斐波那契数列相关任务，适用于智能家居控制场景。当用户需要处理数字反转、字符串、回文判断、斐波那契数列、算法面试准备、数值计算挑战，或提到相关关键词时使用。由 IXNO 进化引擎自动产出，fitness 评分 0，原创可商用。
 tags: [, smart home reverse str hybrid palindrome fibonacci]
 platforms: [claude-code, cursor, codex, opencode, gemini-cli, github-copilot, kiro, windsurf]
 license: Proprietary

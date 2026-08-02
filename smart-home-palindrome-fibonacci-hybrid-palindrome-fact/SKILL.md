@@ -1,6 +1,6 @@
 ---
 name: smart-home-palindrome-fibonacci-hybrid-palindrome-fact
-description: 自动执行pal fib x pal fact 6278算法任务，适用于智能家居场景场景（智能家居、IoT）。由 IXNO 进化引擎自动产出，fitness 评分 0.0，原创可商用。Use when user needs pal fib x pal fact 6278 computations.
+description: 计算回文判断、斐波那契数列、阶乘相关任务，适用于智能家居控制场景。当用户需要处理回文判断、斐波那契数列、阶乘、算法面试准备、数值计算挑战，或提到相关关键词时使用。由 IXNO 进化引擎自动产出，fitness 评分 0，原创可商用。
 tags: [, smart home palindrome fibonacci hybrid palindrome fact]
 platforms: [claude-code, cursor, codex, opencode, gemini-cli, github-copilot, kiro, windsurf]
 license: Proprietary
